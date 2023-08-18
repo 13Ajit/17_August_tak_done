@@ -1,0 +1,40 @@
+//loop mtlab repeat
+//1 1 1 1 1 1 1 1 1 1 1 1 1 1 yaha print and number dono repeat ho rha hai.
+//1 2 3 4 5 6 7 8 9 10 11 12 yaha keval print repeat ho rha hai ; jbki number change ho rha hai.
+//uuper ke dono loop hai.
+
+//loops == first is for 
+// second is while
+
+
+//for(Start ; end ; change)
+//for(initializion ; )
+
+for ( var i = 0; i<11 ; i++)
+{
+    console.log(i)
+}
+console.log("\n")
+var t = 5;//t jiska table hame print krvana hai
+for( var i = 1 ; i<=10 ;i++)
+{
+    console.log(t*i,"\n")
+}
+
+//******************************//************************************//*************************** */ */ */
+
+
+/*while(condition)
+{
+code to be execute
+}*/
+
+var a = 5
+var b = 8
+while(b>=a){
+    console.log(a)
+    a++
+
+}//while loop browser ko hang kr skta hai 
+//so soch samjh kr use karna hai while loop ko
+//mtlb condition deni hai (esi deni hai ki vo kab fail ho rhi hai) and lagatar value ko change krte rhiye (in code / statement me).

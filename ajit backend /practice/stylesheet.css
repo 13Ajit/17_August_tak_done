@@ -1,0 +1,15 @@
+p{
+    border: 2px solid mediumaquamarine;
+    border-radius: 5pt;
+}
+
+
+th{
+    border: 2px solid lightblue;
+}
+td{
+    color: rgb(196, 77, 140);
+}
+
+    border-right: 4px solid greenyellow;
+    border-left: 4px solid goldenrod;
